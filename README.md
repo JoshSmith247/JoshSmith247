@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently working on learning the ins and outs of **Vue.js**, the UI javascript framework
 
-- 🔭 I see a future in piloting aerospace technology, investigating complex networks, modeling socioeconomic systems through the use of modern computing
+- 🔭 I see a future in designing aerospace technology, investigating complex networks, and modeling socioeconomic systems through the use of modern computing
 
 - 🐾 When I'm not at my desk, I enjoy spending time with my cats, experimenting with the aesthetic of my dorm room, and playing pickleball with my girlfriend!
 
