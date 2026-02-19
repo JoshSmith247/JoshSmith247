@@ -6,7 +6,7 @@
   
 - 💬 Feel free to ask me about *node.js*, *my favorite microcontroller brand*, or *what it's like to be an amateur beatboxer*
   
-- 🌱 I’m currently working on learning the ins and outs of **Vue.js**, the UI javascript framework
+- 🌱 I’m currently working on learning the ins and outs of **HEALPix**, a specialized, hierarchical, equal-area, and iso-latitude pixelation blah blah blah (ask me about it!!)
 
 - 🔭 I see a future in designing aerospace technology, investigating complex networks, and modeling socioeconomic systems through the use of modern computing
 
