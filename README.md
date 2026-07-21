@@ -1,6 +1,6 @@
 <!--# Hi there! 👋-->
 
-![Hubble Telescope](./ascii-magic-2.png)
+![Hubble Telescope](./ascii-magic-3.png)
 
 ## 🌌 About Me
 * 🎓 **Education:** Pursuing CS & Economics at WashU (Expected May 2027).
