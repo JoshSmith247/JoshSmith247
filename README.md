@@ -1,16 +1,13 @@
-# Hi there! 👋
+<!--# Hi there! 👋-->
 
-## 🚀 About Me
+![Hubble Telescope](./ascii-magic-2.png)
 
--  My name is Josh, and I'm pursuing my bachelor's degree in **Economics** with a second major in **Computer Science** at WashU
-  
-- 💬 Feel free to ask me about *node.js*, *my favorite microcontroller brand*, or *what it's like to be an amateur beatboxer*
-  
-- 🌱 I’m currently working on learning the ins and outs of **HEALPix**, a specialized, hierarchical, equal-area, and iso-latitude pixelation blah blah blah (ask me about it!!)
-
-- 🔭 I see a future in designing aerospace technology, investigating complex networks, and modeling socioeconomic systems through the use of modern computing
-
-- 🐾 When I'm not at my desk, I enjoy spending time with my cats, experimenting with the aesthetic of my dorm room, and playing pickleball with my girlfriend!
+## 🌌 About Me
+* 🎓 **Education:** Pursuing CS & Economics at WashU (Expected May 2027).
+* 🛠️ **Flight & Systems Engineering:** Focused on bare-metal flight software (Rust/STM32), real-time autonomous systems, and distributed telemetry infrastructure.
+* 📡 **Current Work:** Comms & Ground Station Lead for WashU Satellite Club—building C++/Protobuf downlink layers and TCP/UDP architecture for upcoming CubeSat missions.
+* ⚡ **Core Languages:** C++, Rust, Python, TypeScript.
+* 🐾 When I'm not at my desk, I enjoy spending time with my cats, hanging around places with people who build shiny stuff, and playing pickleball with my girlfriend!
 
 <!--
 **JoshSmith247/JoshSmith247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
